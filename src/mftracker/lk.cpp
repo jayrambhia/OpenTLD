@@ -28,8 +28,8 @@
  ***********************************************************/
 
 #include "lk.h"
-#include <opencv/cv.h>
-#include <opencv/highgui.h>
+//#include <opencv/cv.h>
+//#include <opencv/highgui.h>
 #include <math.h>
 #include <stdio.h>
 

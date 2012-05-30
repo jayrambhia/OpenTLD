@@ -21,7 +21,8 @@ MODIFICATIONS (Modification, Author, Date):
 
 #include "BlobLibraryConfiguration.h"
 #include <math.h>
-#include <opencv/cxcore.h>
+//#include <opencv/cxcore.h>
+#include <opencv2/opencv.hpp>
 
 #ifdef MATRIXCV_ACTIU
 	#include "matrixCV.h"

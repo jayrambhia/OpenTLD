@@ -5,7 +5,8 @@
 #ifndef BLOB_PROPERTIES_H_INCLUDED
 #define BLOB_PROPERTIES_H_INCLUDED
 
-#include <opencv/cxcore.h>
+//#include <opencv/cxcore.h>
+#include <opencv2/opencv.hpp>
 #include "BlobLibraryConfiguration.h"
 #include "BlobContour.h"
 
