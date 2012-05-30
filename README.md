@@ -61,7 +61,7 @@ __arguments__
 Dependencies
 ------------
 
-* OpenCV & OpenCV highgui >= 2.0
+* OpenCV & OpenCV highgui >= 2.3.1
 * CMake >= 2.6
 
 Compiling
